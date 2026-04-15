@@ -77,7 +77,7 @@ User Message
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/rag-memory-chatbot.git
+git clone https://github.com/alirazaaihub/rag-memory-chatbot.git
 cd rag-memory-chatbot
 
 # 2. Create virtual environment
