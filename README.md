@@ -189,7 +189,7 @@ pip install langchain langchain-chroma langchain-community langchain-groq langch
 
 ## 🙋 About
 
-Built by **[Tumhara Naam]** — an 18-year-old self-taught AI developer from Pakistan.  
+Built by **Ali raza** — an 18-year-old self-taught AI developer from Pakistan.  
 This is part of my Agentic AI portfolio built using LangChain, LangGraph, and Groq.
 
 📌 [LinkedIn](https://www.linkedin.com/in/ali-raza-7124a0403/)
