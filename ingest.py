@@ -45,7 +45,7 @@ def create_vector_store(chunks, persist_directory="db/chroma_db"):
 # Run all pipline
 def main():
 
-    file_path = "D:\projects\"
+    file_path = "Enter pdf file path"
     persist_directory = "vector_store"
 
     embedding_model = HuggingFaceEmbeddings(
